@@ -1,0 +1,39 @@
+Criaturas;Derrotado por       
+Ceto;-
+Tifón;Zeus
+Equidna;Argos Panoptes
+Dino;-
+Pefredo;-
+Enio;-
+Escila;-
+Caribdis;-
+Euríale;-
+Esteno;-
+Medusa;Perseo
+Ladón;Heracles
+Aguila del Cáucaso;-
+Quimera;Belerofonte
+Hidra de Lerna;Heracles
+León de Nemea;Heracles
+Esfinge;Edipo
+Dragón de la Cólquida;-
+Cerbero;-
+Cerda de Cromión;Teseo
+Ortro;Heracles
+Toro de Creta;Teseo
+Jabalí de Calidón;Atalanta
+Carcinos;-
+Gerión;Heracles
+Cloto;-
+Láquesis;-
+Atropos;-
+Minotauro de Creta;Teseo
+Harpías;-
+Argos Panoptes;Hermes
+Aves del Estínfalo;-
+Talos;Medea
+Sirenas;-
+Pitón;Apolo
+Cierva de Cerinea;-
+Basilisco;-
+Jabalí de Erimanto;--
